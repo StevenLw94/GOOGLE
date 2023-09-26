@@ -1,0 +1,54 @@
+    body {
+      background-color: #202124;
+      color: white; font-family: Arial, Helvetica, sans-serif;
+    } 
+   header {
+    text-align: right;
+    margin-top: 20px ; :underline;
+    
+   }
+   
+    .logogoogle {
+        text-align: center; 
+        margin-top: 2%;
+    }
+    a { color: ghostwhite; text-decoration: none;} 
+   .barre { text-align: center;}
+    .recherche
+{text-align: center;}
+   
+.boutons { text-align: center;line-height: 4; 
+} 
+
+    .ligne {
+        border: 1px solid #fefefe; 
+        width: 2000px; 
+      }
+      input[type="text"] {
+        border-radius: 30px; 
+; width: 550px; height: 40px; line-height: 2; background-color: #202124 ; margin-top: 30px
+;border-style:groove; border-color: #fefefe; cursor:text; font-size: 14px; font-family: Arial, Helvetica, sans-serif;
+border-color: #000000; back
+      }
+      input[class="search"] {color: #fefefe;}
+
+      input[placeholder="steven que recherches tu ?"] {text-align: center
+    ;}
+      
+      input[type="submit"] {border-radius: 4px; background-color: #202124; height: 36px; width: 150px ;font-size: 14px;
+cursor: pointer;color: #fefefe; border-color: #000000;}
+      button {border-radius: 4px; background-color: #202124; color:#fefefe ; height: 36px; width: 150px ;font-size: 14px;
+        cursor: pointer; margin: 10px; border-color: #000000;}
+        .notre { text-align: center;}
+
+   footer { bottom: 0%; position: absolute; font-size: 14px; display: block;
+    bottom: 0;
+    width: 100%;
+    background-color: #171717
+    ;
+    margin-bottom: 10px; line-height: 3
+; word-spacing: 5px;
+  }
+
+.notre:hover {text-decoration: underline;}
+input:hover {background-color: #2b2c2e;}
